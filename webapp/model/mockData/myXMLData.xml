@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<empTab>
+		<row>
+			<empNo>5000</empNo>
+			<eName>Syed</eName>
+			<salary>5000</salary>
+			<curr>Euro</curr>
+			<mStatus>married</mStatus>
+			<gender>he</gender>
+			<rating>3</rating>
+			<smoker>true</smoker>
+		</row>
+		<row>
+			<empNo>5001</empNo>
+			<eName>Johny</eName>
+			<salary>2000</salary>
+			<curr>USD</curr>
+			<mStatus>Single</mStatus>
+			<gender>he</gender>
+			<rating>5</rating>
+			<smoker>true</smoker>
+		</row>
+		<row>
+			<empNo>7000</empNo>
+			<eName>Julie</eName>
+			<salary>4000</salary>
+			<curr>JPY</curr>
+			<mStatus>married</mStatus>
+			<gender>she</gender>
+			<rating>4</rating>
+			<smoker>false</smoker>
+		</row>
+	</empTab>
+</data>
